@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+BlazeOS Peak is a free and open source, friendlier alternative to Amazons Prime series of products and services.
